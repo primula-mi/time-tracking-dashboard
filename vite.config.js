@@ -12,4 +12,5 @@ export default defineConfig({
     }
   },
   publicPath: "/time-tracking-dashboard/",
+  base: "/time-tracking-dashboard/",
 })
